@@ -1,0 +1,3 @@
+TOKEN = "TON_TOKEN_BOT_ICI"
+CHAT_ID = "@alertesmacroci"
+XML_URL = "https://nfs.faireconomy.media/ff_calendar_thisweek.xml"

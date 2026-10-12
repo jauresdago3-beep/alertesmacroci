@@ -1,0 +1,4 @@
+config.py
+bot.log
+data/
+__pycache__/
