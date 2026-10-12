@@ -2,3 +2,4 @@ config.py
 bot.log
 data/
 __pycache__/
+*.bak
