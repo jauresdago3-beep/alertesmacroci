@@ -21,7 +21,7 @@ Fait pour les traders ivoiriens : plus besoin de convertir les heures américain
 
 ## ⚙️ Installation
 
-    git clone https://github.com/TON_PSEUDO/alertesmacroci.git
+    git clone https://github.com/jauresdago3-beep/alertesmacroci.git
     cd alertesmacroci
     pip install requests
     cp config.py.example config.py
