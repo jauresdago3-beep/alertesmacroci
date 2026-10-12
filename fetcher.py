@@ -11,7 +11,7 @@ def convert_to_gmt(date_str, time_str):
         dt_us = datetime.strptime(full_date_str, "%m-%d-%Y %I:%M%p")
         
         # Fuseau source ForexFactory (US/Eastern)
-        us_tz = zoneinfo.ZoneInfo("America/New_York")
+        us_tz = zoneinfo.ZoneInfo("UTC")
         dt_us = dt_us.replace(tzinfo=us_tz)
         
         # Fuseau cible (GMT / UTC)
